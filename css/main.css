@@ -304,7 +304,7 @@ dt{
 
 /* Mobile friendly */
 @media(max-width:960px){
-  .fullscreen-landing video{
+  .fullscreen-landing{
     min-width: 116%;
     min-height: 100%;
     margin-bottom: -500px;
@@ -313,7 +313,7 @@ dt{
 }
 
 @media (max-width:720px) {
-  .fullscreen-landing video{
+  .fullscreen-landing{
     min-width: 116%;
     min-height: 100%;
     margin-bottom: -500px;
